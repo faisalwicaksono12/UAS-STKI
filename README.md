@@ -1,0 +1,2 @@
+# UAS-STKI
+tugas UAS STKI 
